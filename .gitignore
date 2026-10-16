@@ -1,0 +1,7 @@
+
+# finetuning artifacts
+*.ckpt
+*.pt
+*.xyz
+outputs/
+extensions/

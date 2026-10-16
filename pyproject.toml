@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "altair>=6.3.0",
+    "atomistic-cookbook-utils>=0.1.0",
+    "chemiscope>=1.1.0",
     "marimo>=0.25.1",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
@@ -15,6 +17,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "torch>=2.14.1",
     "torchvision>=0.29.1",
+    "upet>=0.3.1",
 ]
 
 [project.scripts]
